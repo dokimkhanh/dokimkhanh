@@ -7,11 +7,15 @@ I'm a net developer and a freelancer. My passion for software lies with dreaming
 
 **My Preferred Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=js,html,css,wasm"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=c"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=cpp"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=cs"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=html"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=css"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=angular"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=firebase"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=github"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=git"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=mysql"></code>
+
