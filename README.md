@@ -10,12 +10,16 @@ I'm a net developer and a freelancer. My passion for software lies with dreaming
 <code><img height="20" src="https://skillicons.dev/icons?i=c"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=cpp"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=cs"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=dotnet"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=html"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=css"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=angular"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=bootstrap"></code>
+
+<code><img height="20" src="https://skillicons.dev/icons?i=postman"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=mysql"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=firebase"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=github"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=git"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=mysql"></code>
 
