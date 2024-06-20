@@ -1,4 +1,4 @@
-# Hi there 🍕 I'm Do Kim Khanh,
+# Hi there 🍕 I'm Khanh Do,
 
 I'm a net developer and a freelancer. My passion for software lies with dreaming up ideas and making them come true. I am also an code enthusiast. I learned a lot from the internet community and i love how everyone knowledge sharing happened through community.
 
