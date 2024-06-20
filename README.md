@@ -19,7 +19,6 @@ I'm a net developer and a freelancer. My passion for software lies with dreaming
 
 <code><img height="20" src="https://skillicons.dev/icons?i=postman"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=mysql"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=firebase"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=github"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=git"></code>
 
